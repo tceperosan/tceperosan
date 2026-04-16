@@ -2,32 +2,7 @@
 
 🎓 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
 💻📸 Apasionada por el diseño web y la fotografía.  
-🚀 Actualmente aprendiendo y mejorando mis habilidades en tecnologías de frontend y backend.
 
----
-
-## 🌟 Sobre mí
-
-- 📚 En formación constante para convertirme en desarrolladora web profesional.  
-- ❤️ Me encanta crear interfaces intuitivas y funcionales.  
-- 🤝 Abierta a colaborar en proyectos y retos que me permitan mejorar mis capacidades.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### **Frontend**
-- HTML5  
-- CSS3 
-
-### **Backend**
-- Java
-- MySQL  
-
-### **Herramientas**
-- Git & GitHub  
-- VS Code  
-- IntelliJ
 ---
 
 ## 📈 En lo que estoy trabajando ahora
